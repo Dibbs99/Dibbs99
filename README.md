@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dibbs99
+- 👋 Hi, I’m @Dibbs99 (Dan Ibbs)
 - 👀 I’m interested in all things science and tech. I have a particular interest in "AI" and deep learning techniques.
 - 🌱 I’m currently learning AWS toolkits in cloud development
 - 💞️ I’m looking to collaborate on works of science or physics. Always open to something new and interesting though.
